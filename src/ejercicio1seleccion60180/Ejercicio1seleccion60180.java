@@ -36,7 +36,7 @@ public class Ejercicio1seleccion60180 {
         } else if (Numero2 > Numero3) {
            System.out.println("El numero mayor es: " + Numero2); 
         } else {
-           System.out.println("El numero mayor es: " + Numero3); 
+           System.out.println("El numero mayor es: " + Numero3);
         }
         
     }
